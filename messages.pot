@@ -1364,6 +1364,8 @@ msgid "We need your full flight number (including airline code, for example: ABC
 msgstr ""
 msgid "Airline Name :"
 msgstr ""
+msgid "Flight Details"
+msgstr ""
 msgid "A reservation has already been made for the past 5 minutes. If you want to make a new reservation please wait 5 minutes to make a new reservation."
 msgstr ""
 msgid "Privacy Policy"
