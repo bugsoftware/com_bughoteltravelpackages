@@ -1396,6 +1396,8 @@ msgid "You can use this field to input any information or any special requests f
 msgstr ""
 msgid "On Request"
 msgstr ""
+msgid "Includes Air Transportation"
+msgstr ""
 msgid "A reservation has already been made for the past 5 minutes. If you want to make a new reservation please wait 5 minutes to make a new reservation."
 msgstr ""
 msgid "Privacy Policy"
